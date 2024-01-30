@@ -1,6 +1,8 @@
 # GAN-based Image Generation
 
-To create novel images utilizing Generative Adversarial Networks (GANs), one can employ various GAN model generation frameworks. In this research endeavor, we opted for the straightforward framework provided by MMGeneration [MMGeneration repository](https://github.com/open-mmlab/mmgeneration) to generate new samples. This modular framework facilitates ease of use for image generation based on GAN models.
+To create new sample images utilizing Generative Adversarial Networks (GANs), one can employ various GAN model generation frameworks. In this research endeavor, we opted for the straightforward framework provided by MMGeneration [MMGeneration repository](https://github.com/open-mmlab/mmgeneration) to generate new samples. This modular framework facilitates ease of use for image generation based on GAN models.
+
+![PSIG-Net Image](https://github.com/ifarady/PSIG-Net/blob/main/figures/gan.png)
 
 ## Usage
 

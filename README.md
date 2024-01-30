@@ -8,7 +8,7 @@ This repository contains the implementation code for our latest work, PSIG-Net, 
 
 Our paper describing PSIG-Net is currently under review in [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control). We will be actively maintaining and updating this repository with future improvements and insights.
 
-![PSIG-Net Image](https://github.com/ifarady/PSIG-Net/blob/main/psig-net.png)
+![PSIG-Net Image](https://github.com/ifarady/PSIG-Net/blob/main/figures/psig-net.png)
 
 ## Stage-1: Pseudo Sample Generation
 
