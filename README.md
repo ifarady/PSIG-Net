@@ -23,7 +23,7 @@ A robust loss function and data filtering mechanism are employed to identify and
  
 ### Highlights:
 
-- **Improved Accuracy:** PSIG-Net achieves state-of-the-art performance on skin cancer classification benchmarks on ISIC-2017 and ISIC-2018 datasets
+- **Improved Accuracy:** PSIG-Net achieves state-of-the-art performance on skin cancer classification benchmarks on ISIC-2017 and ISIC-2018 datasets. [ISIC Datasets](https://challenge.isic-archive.com/data/) 
 
 - **Data Efficiency:** It effectively utilizes limited training data by generating informative pseudo samples using a GAN-based model.
 
